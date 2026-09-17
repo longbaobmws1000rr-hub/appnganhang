@@ -5,6 +5,7 @@ import pandas as pd
 st.set_page_config(page_title="Tính Lãi Tiết Kiệm", page_icon="💰", layout="centered")
 
 st.title("💰 Công Cụ Tính Lãi Tiết Kiệm")
+st.image("Unknown.jpg", use_container_width=True)
 st.write("So sánh tiền lãi thu được giữa **Lãi đơn** và **Lãi kép**.")
 
 # Nhập dữ liệu từ người dùng
